@@ -1,4 +1,4 @@
-- 👋 Hello, I’m @throwawayaccountfor
+- 👋 Hello, I’m from Codeberg
 - 👀 If you are reading this...
 - ❎ This account will be wiped.
 - 📖 This is your chance to put this in WayBack Machine!
